@@ -1,0 +1,1 @@
+Cece repertoire contient les projets et les travaux pratiques que j'ai réalisé dans le cadre de mon master 1 en calcul scientifique à l'université de Strasbourg.
