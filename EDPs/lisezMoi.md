@@ -1,0 +1,1 @@
+Ce repertoire contient les tps de EDPS (equaitons aux derivées partielles) qu'on a eu à faire dans le cadre de du master 1 en calcul scientifique à l'université de Strasbourg.
