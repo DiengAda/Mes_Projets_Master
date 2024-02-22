@@ -4,7 +4,6 @@
 *.aux
 *.pyg
 *.synctex.gz
-*.pdf
 *.gz
 *.out
 *.toc
