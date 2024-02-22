@@ -9,4 +9,4 @@ Il y a diffèrents repertoires:
 - **CFG**: qui contient les donnees d'entree
 - **CSV**: contenants les fichiers de sortie du programme
 
-Pour plus de details, veuillez lire le rapport du projet.
+Pour plus de details, veuillez consulter le rapport du projet.
