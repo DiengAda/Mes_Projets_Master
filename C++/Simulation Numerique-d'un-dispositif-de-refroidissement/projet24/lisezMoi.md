@@ -1,19 +1,12 @@
+Ce projet a pour but de réaliser un programme C++ permettant d’étudier le
+comportement thermique d’un dispositif de refroidissement d’un micro-processeur.
 
-# rendu intermaidiaire
+Voici en resumé la structure du programme que jai réalisé:
 
-# Dossier TesterMesFonctions
-il contient les fonctions que j'ai cree e ttester pour le moment.
-Vous pouvez compiler  TEST.CPP pour voir les resultats. ATTENTTION: il faut se placer dans ce dossier et faire '*.cpp'
+Il y a diffèrents repertoires:
+- **CPP**: contient les fichiers sources du programme
+- **HPP**: contient les fichiers d'en-tête
+- **CFG**: qui contient les donnees d'entree
+- **CSV**: contenants les fichiers de sortie du programme
 
-
-# Dossier CPP
-Dans l dossier CPP, jai un fichier Partie2.cpp qui contient la fonction principale avec une grande classe stationnaire.
-
-Pour l'instantjai fait quelques class et fonctions pour initialiser le projet;
-cependant je rencontre quelques difficultes au niveau de la resolution.
-De ce fait je n'ai pas encore pu tester tout mon code. 
-
-
-# csv
-Pour le moment il contient pas les bonnes valeurs de la soluiton numerique. Je travaille sur.
-En attendant jai mis des 1 pour pouvoir tester ma fonction CSV().
+Pour plus de details, veuillez lire le rapport du projet.
