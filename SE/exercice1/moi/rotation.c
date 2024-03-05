@@ -26,7 +26,7 @@ void rotate(int n, char *chemin_fichier_src)
 {
     int src, dest;
     char *buffer1, *buffer2;
-    char chemin_dest[CHEMIN_MAX]; 
+    char chemin_dest[CHEMIN_MAX +1]; 
     ssize_t len;
     struct stat st;
 
