@@ -143,6 +143,7 @@ void parcourir(char *repertoire)
 }
 
 // fonction pour comparer les inodes
+// à revoir cette fonction compare!!!!!!!!!
 int compare(const void *a, const void *b)
 {
     return ((infos_fichier *)a)->inode - ((infos_fichier *)b)->inode;
